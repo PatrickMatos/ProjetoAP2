@@ -1,11 +1,9 @@
 package frb.edu.br.patrick.controladores;
 
-import frb.edu.br.dominio.contratos.IdCidade;
-import frb.edu.br.dominio.entidades.Cidade;
+import frb.edu.br.contratos.IdCidade;
+import frb.edu.br.entidades.Cidade;
 import frb.edu.br.patrick.repositorios.RepositorioCidade;
 
-import javax.faces.view.ViewScoped;
-import javax.inject.Named;
 import java.util.List;
 
 public class CidadeControl{

@@ -1,9 +1,9 @@
 package frb.edu.br.patrick.repositorios;
-import frb.edu.br.dominio.contratos.IdEndereco;
-import frb.edu.br.dominio.contratos.IdPais;
-import frb.edu.br.dominio.entidades.Cidade;
-import frb.edu.br.dominio.entidades.Endereco;
-import frb.edu.br.dominio.entidades.Pais;
+import frb.edu.br.contratos.IdEndereco;
+import frb.edu.br.contratos.IdPais;
+import frb.edu.br.entidades.Cidade;
+import frb.edu.br.entidades.Endereco;
+import frb.edu.br.entidades.Pais;
 import frb.edu.br.infra.data.DaoUtil;
 
 import java.sql.PreparedStatement;
